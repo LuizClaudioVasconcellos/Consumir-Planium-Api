@@ -1,0 +1,19 @@
+.select-button {
+  display: flex;
+  justify-content: space-between;
+}
+
+.btnEnviar button {
+  width: 150px;
+}
+
+.btnEnviar {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.form-group-inputs {
+  display: flex;
+  align-items: center;
+  gap: 8px 24px;
+}

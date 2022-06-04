@@ -1,0 +1,44 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  width: 100%;
+  background-color: #2fa3ca;
+}
+
+.container {
+  width: 1200px;
+  margin: 0 auto;
+}
+
+.header {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+img {
+  margin-left: 100px;
+}
+
+nav {
+  margin-right: 100px;
+}
+
+nav a {
+  text-decoration: none;
+  padding: 16px 8px;
+  color: white;
+  font-weight: 600;
+  font-family: cursive;
+  margin: 0 8px;
+  transition: 0.2s ease-in-out;
+}
+
+nav a:hover {
+  text-decoration: underline;
+  color: black;
+}

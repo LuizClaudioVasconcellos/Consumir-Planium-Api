@@ -1,0 +1,19 @@
+table {
+  border: 1px solid black;
+  justify-content: center;
+}
+
+th {
+  background-color: white;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #d4d4d4;
+}
+
+td {
+  font-size: 18px;
+  padding: 6px;
+  text-align: center;
+}

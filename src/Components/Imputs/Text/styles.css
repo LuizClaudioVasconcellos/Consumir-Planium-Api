@@ -1,0 +1,20 @@
+.input {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.input label {
+  font-size: x-large;
+  color: aliceblue;
+  margin-top: 16px;
+}
+
+.input input,
+input[type="text"] {
+  margin: 8px 0;
+  padding: 8px 16px;
+  outline: none;
+  border-radius: 8px;
+  width: 238px;
+}

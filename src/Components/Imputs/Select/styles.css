@@ -1,0 +1,18 @@
+.select {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 30%;
+}
+
+.select label {
+  font-size: x-large;
+  color: aliceblue;
+}
+
+.select select {
+  margin: 8px 0;
+  padding: 8px 16px;
+  outline: none;
+  border-radius: 8px;
+}
